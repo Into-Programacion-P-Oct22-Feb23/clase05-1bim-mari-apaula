@@ -19,7 +19,9 @@ public class Ejemplo1 {
 
         double promedio = 7.5;
 
-        if (promedio >= 7.5) {
+        if (promedio >= 7.5) { // if para condicionar 
+            // if ...else = condicinal compuesto
+            // swite otro = condisonador pero que un no se para que es
             System.out.printf("Estudiante aprobado con un "
                     + "promedio: %.2f\n", promedio);
         }
